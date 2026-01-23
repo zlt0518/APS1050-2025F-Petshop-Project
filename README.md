@@ -1,6 +1,6 @@
 # APS1050-2025F-Blockchain-Technologies-and-Cryptocurrencies-Project
 
-APS1050F: Blockchain Technologies and Cryptocurrencies 2025 Fall Project at the University of Toronto
+APS1050F: Blockchain Technologies and Cryptocurrencies 2025 Fall Project at the University of Toronto \
 The repository contains all the source code and documentations for Course Project written by 4 students
 
 **Please follow the academic integrity at the University of Toronto.**

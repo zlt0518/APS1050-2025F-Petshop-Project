@@ -3,8 +3,10 @@
 APS1050F: Blockchain Technologies and Cryptocurrencies 2025 Fall Project at the University of Toronto
 The repository contains all the source code and documentations for Course Project written by 4 students
 
+**Please follow the academic integrity at the University of Toronto.**
+
 ## Introduction 
-Our DApp is an enhanced version of the classic Pet Shop DApp (Pete's Pet Shop) decentralized application, built on Ethereum using Solidity, Web3.js, and a fully on-chain smart contract architecture. It allows users to view, adopt, and interact with pets while ensuring transparency, immutability, and trust through blockchain technology. For our DApp, **7 features have been implemented to compromise the team size of 4 people after discussion with instructors**. All 7 features enrich both the front-end user experience and the back-end smart contract logic, making the DApp more interactive and intuitive. These improvements create a more dynamic, user-driven, and functional platform for decentralized pet adoption.
+Our DApp is an enhanced version of the classic Pet Shop DApp ([Pete's Pet Shop](https://archive.trufflesuite.com/guides/pet-shop/)) decentralized application, built on Ethereum using Solidity, Web3.js, and a fully on-chain smart contract architecture. It allows users to view, adopt, and interact with pets while ensuring transparency, immutability, and trust through blockchain technology. For our DApp, **7 features have been implemented to compromise the team size of 4 people after discussion with instructors**. All 7 features enrich both the front-end user experience and the back-end smart contract logic, making the DApp more interactive and intuitive. These improvements create a more dynamic, user-driven, and functional platform for decentralized pet adoption.
 
 ## Required package and Versioning
 | Package             | Version         |
@@ -50,7 +52,3 @@ Our DApp is an enhanced version of the classic Pet Shop DApp (Pete's Pet Shop) d
 
 ## Conclusion
 Overall, the deployment of seven features significantly strengthens both the smart-contract layer and the front-end interface, resulting in a more transparent, secure, and user-driven decentralized pet adoption experience.
-
-**Please follow the academic integrity at the University of Toronto.**
-
-

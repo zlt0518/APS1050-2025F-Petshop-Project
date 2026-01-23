@@ -1,0 +1,443 @@
+We have reached the halfway point in this course and 
+you should be making some decisions 
+about your project.
+
+Due date:
+To be announced
+
+Project basic material published this week:
+Lesson 6: Ethereum
+Lesson 7: IoT
+(more research project material will be published in lessons 8-13)
+
+These two lessons cover 
+how Ethereum works,
+Ethereum smart contracts, 
+tokens and their use, and
+how DApps work.
+IoT and smart contracts in economics/finance
+
+These two lessons, together with the previous lessons
+contain the ALL vocabulary you need to start reading (and understanding) blockchain white papers
+and/or to start programming an Ethereum DApp.
+After Lesson 7 homework is reduced to a minimum, to allow you to concentrate on your projects,
+with the exception of one crytography homework.
+
+There are three options we envision regarding the projects:
+
+Option 1:
+Programming project (personal or team) = 40% of the grade
+
+Option 2:
+Research project (personal) = 40% of the grade
+
+Option 3:
+Tutorial project (personal) = 40% of the grade
+.
+
+RESEARCH PROJECT==================================================================================================
+
+RESEARCH PROJECT DELIVERABLE
+
+Writing a research paper on a blockchain project involves
+1. Reading and analyzing the white paper and 
+economic strategy of a blockchain project of interest:
+Analyzing the technical choices made (e.g. type of consensus, permissioned or public, etc.),
+Analyzing the business strategy (e.g. what is the blockchain's purpose, what data is saved and SHARED between users), 
+Analyzing the investment strategy (e.g. if there is a token or currency, is there a cap to the amount that will be mined,
+how much will be distributed to the miners per year, what is the expected inflation of the token or currency etc.)
+and
+2. Analyzing the application website if it exists.
+
+Ideally, you should write a case study similar to 
+the one provided below:
+
+SteemitHarvardCase.pdf and SteemitHarvardCase.doc
+
+Your paper should have the following parts
+(analogous to the above case, where we substitute
+XXX for Steemit):
+
+XXX: Introduction 
+Platform built on Blockchain: (Discussion of the platform)
+History of XXX
+Why XXX?
+Why Blockchain
+How it worked
+  Reward system
+  Where did the money come from 
+Strategy Considerations
+Issues and Roadblocks
+Glossary
+Endnotes
+Bibliography!
+
+The length of the paper should be at least 15 pages,
+and 600 words per page
+(the 15 pages should not include the contents table, glossary and endnotes).
+Turn in a .doc document not a .pdf (please)
+A text similarity below 15% is acceptable as per Grammarly, so
+A similarity of >15% will considered as high percentage of plagiarism.
+Do not use ChatGPT as we have ways of finding out AI generated text similarity which
+will also affect your grade.
+
+
+Read the case (SteemitHarvardCase.pdf)
+It is very interesting and as you read it, 
+you will understand 
+how to write the required sections of the deliverable.
+However, you are not required to give a long detailed history
+about any particular issue as the case does,
+the only requirement is a description of the project's present status 
+and a short history from materials available on the internet.
+Obtaining financial information on a project is not always possible,
+so search for a blockchain project that has some
+published funding strategy (e.g. Polkadot does provide it)
+
+RESEARCH MATERIALS (Lesson 7)
+
+In previous versions of this course, 
+we let students choose a blockchain of interest to them,
+and we provided helpful reading materials and presentations written by us from which
+students could start their research.
+
+We have included some relevant materials in:
+
+L7.Miscellaneous4\PrognosisOfBitcoin:
+In Lesson 5 we covered Arthur Gervais simulation of Bitcoin and
+one of the conclusions he reached was that Bitcoin will become unstable
+once miner rewards have stopped (because the top number of Bitcoin=21 million has been reached) which
+entails that miners have to survive on transaction fees alone.
+What is the prognosis of Bitcoin under these circumstances?
+
+L7.Miscellaneous4\Quoz.txt:
+The BIS (Bank of International Settlements, the Central Bank of ALL Central Banks) 
+recently published 
+Blueprint for the future monetary system (basically, a stablecoin that acts like a CBDC, a central bank digital currency):
+https://www.bis.org/publ/arpdf/ar2023e3.htm
+This project is very important and everyone should be aware of it.
+We have included a text file called Quoz.txt
+that gives guidance in this topic.
+Quoz is a finance thriller that is actually based on reality! We highly recommend it.
+
+L7.Miscellaneous4\The_Unit.txt:
+The BRICS  (a trade association including Brazil, Russia, India, China, and South Africa)
+recently published 
+The Unit (a token backed by a basket of assets that pays no cash flows to the holders). 
+https://unitfoundation.org/
+This project is again very important as 
+The Unit constitutes an effort to replace the U.S. Dollar for cross border trade transactions.
+We have included a text file called The_Unit.txt
+that gives guidance on this topic.
+
+L7.Miscellaneous4\ChinaBitcoin and ChinaBitcoin.txt:
+China's relationship to Bitcoin is ambiguous.
+There are two books on China and Bitcoin, one for and one against.
+
+L7.Miscellaneous4\Polkadot_RESEARCH:
+Polkadot is the idea of Gavin Wood, none other than the creator of Ethereum's Solidity compiler.
+The Polkadot/Substrate combo could very well become the next Ethereum.
+If, as we suspect, a new blockchain wave is coming,
+it is going to be based on Polkadot/Substrate.
+This new blockchain wave has been accelerated by the economic harm caused by the Covid-19 pandemic 
+which has basically set up major fiat currencies for hyper-inflation and 
+has forced central banks associated with these fiat currencies to seriously consider
+digitizing the fiat currency and get rid of cash all together.
+So, since you are too young to have benefited from the first blockchain wave,
+be sure you do not miss this coming wave and research Polkadot/Substrate.
+Note that to understand the Polkadot/Substrate combo, 
+you must understand Ethereum well first
+so read the Ethereum materials carefully before you start.
+
+L7.Miscellaneous4\Jack DorseytbDEX_RESEARCH:
+tbDEX is another excellent project, by Jack Dorsey, the creator of
+Twitter and The Block.  The idea tries to solve two twin problems at the crux of 
+the new blockchain economy: the problem of identity and the problem of credit.
+
+L7.Miscellaneous4\BitcoinPowerLaw_Readings.txt:
+Santostasi's Power Law Theory of Bitcoin' s Price
+has taken the internet by storm and 
+has given rise to a strong debate arguing for and against.
+
+L7.Miscellaneous4\IoT_RESEARCH
+The surveys in the IoT_RESEARCH directory contain live links 
+to all the white papers of the blockchains discussed in the presentations.
+Approaches-to-Front-End-IoT-Application-Development-fo_2018_Procedia-Compute.pdf
+is a good paper to begin reading, if IoT is your preferred topic.
+
+L7.Miscellaneous4\StablecoinCurrentEventsMore:
+The US government is promoting stablecoins? Why? 
+Why should or shouldn't the US government promote them?
+
+There are other topics of interest in L7.Miscellaneous4 that we do not cover here.
+
+DApps provide additional research material (written by us or others)
+on the economic and game-theoretic aspect of smart contracts that control crypto-currencies/tokens,
+which might interest students with a background in finance or economics:
+
+L7.Miscellaneous.2:
+5. EthereumDAppsTokens.pptx
+6. Stablecoins.pptx
+7. RicardianSmartContractsAndGameTheory.pptx
+8. Blockchain_GAME_THEORY_Survey.pdf
+
+
+PROGRAMMING PROJECT===============================================================================================
+
+We provide provide an Ethereum minicourse (Lesson 6)
+with tutorials written, updated or corrected by us that 
+will help you start programming an Ethereum DApp (actually,
+you do not need to program everything from scratch as 
+you will see below: you can simply adapt or enhance code).
+
+In addition to the tutorials in the Ethereum Minicourse
+you will do homework where you manipulate DApps such as:
+Pet Shop Tutorial (Homework. due in two weeks, where you copy-paste and run code (no programming)). 
+Ethereum faucet tutorial (Homework due in two weeks, where you copy-paste and run code (no programming))
+
+The Ethereum Minicourse covers not only Solidity, but also
+essential materials on Javascript that we have carefully chosen,
+to minimize the amount of reading.
+Javascript is needed to be able to render the front-end of the DApp, that is, the user interface.
+Javascript is not a difficult language: 
+the main difficulty is the asynchronous Javadscript part, 
+which is the part that we focus on.
+
+
+PYTHON MATERIALS:
+If you want to program a DApp with a front-end in Python (as opposed to Javascript)
+we also provide an example DApp:
+
+IOT-tutorial_python_FIXED  
+
+ADDITIONAL MATERIALS:
+if you are programming from scratch or enhancing an existing DApp for this course and 
+you want extra tutorial videos and extra reference materials on Solidity, Truffle and Javascript contact us via piazza.
+We have personal resouces that we can share in that case.
+We encourage you to take on the programming project because of the coming new blockchain wave,
+It is important not to miss this job market entry, 
+so take advantage of the opportunity the course offers!
+
+
+PROGRAMMING PROJECT DELIVERABLE
+
+You do not need to program a DApp from scratch, in fact, you can just adapt existing code.
+You can start from a seed DApp (you must attribute your source to avoid the charge of plagiarism)
+If you start from a seed DApp, you must add six (6) major modifications to make the DApp more useful
+but these modifications can be obtained from code in other DApps we have provided (see below).
+
+A major modification to a seed DApp involves 
+the addition of a major feature and must include changes in 2 levels:
+
+1. changes on the front-end such as changes to the Javascript (app.js) and HTML (index.html) rendering, and
+2. changes to the Solidity smart contract (contract.sol) such as the addition of new functions (major features). 
+
+In other words, you will probably have to write:
+6 new functions in the .sol contract and
+6 new functions in the app.js 
+You do NOT need to write 6 new .sol contracts (integrate all new functions within a single .sol contract).
+The executive summary should explain the new features and which files were modified to implement them.
+See ExecutiveSummaryExample.pdf
+
+The 6 new features need not be programmed from scratch: 
+You can enrich one DApp (we suggest the Petshop DApp) by transferring features 
+from another DApp (not from another Petshop DApp,* from a different DApp) that you have studied 
+For example, you can add to the Petshop DApp 6 features minimum (more is possible) included from:
+
+1. a way of adding/registering pets (and their photos**), for a fee, to be adopted transferred from Marketplace or somewhere else, adding a new data structure (dynamic array or mapping etc.).
+If you access the file-system for the photos etc. this counts as a 2 features.
+2. a way of voting for the best pets (or liking a pet) in the Petshop DApp transferred from Elections.
+3. a way of donating ether to the petshop transferred from Web3Basics SendMeEther, where only the petshop owner can withdraw ether
+4. a way of buying a pet (can be an auction) transferred from Marketplace or Web3Basics 
+5. a way of filtering*** for a list of pets (available pets not adopted already) of a specific breed, age and location etc. 
+6. a way of filtering*** for a list of pets (already adopted pets) of a specific breed, age and location etc. 
+7. a way of keeping track of and publishing the most adopted (or most purchased) breed
+8. a way of keeping track of which owner has which pet(s) (possibly none or many)
+9. a way of keeping track of which pet belongs to which owner (possibly none or 1)
+10. a way of keeping track of a user's adoption history
+11. a way of a way of keeping track of a pet's adoption history 
+12. a way of keeping track of how many custumers have been served and how many pets adopted
+13. a way of returning the pet, for a fee
+14. a way of giving a pet to a friend, for a fee
+15. a way of keeping a vaccination registry for the pet
+16. a way to generate and award and use as payment PetshopTokens (coupons) (see Metacoin)
+17. a way of buying PetShop services and/or products (like pet vaccination, grooming, pet food, pet toys, etc.)
+18. a way of using the Paillier library to authenticate a PetShop administrator (see Cryptography_2)
+19. a way for an administrator to add products or services to be sold or pets to be sold or adopted
+20. a way of using an event to inform a user that a change in status has been successful
+21. a way of donating to a particular pet, so the pet becomes more "adoptable"
+22. a way for potential or actual adopters and PetShop staff to interact via a PetShop chat room
+23. a way to restrict the hours of operation of the PetShop DApp to business hours
+24. a way to provide the Canadian Dollar/Ethereum exchange rate for any effected transaction with an Oracle**** (counts as 6 features).
+25. update your DApp from using truffle contract to using @truffle/contract (counts as 2 features)
+26. a way of keeping track of the shopping cart 
+27. any other blockchain functionality you can think of, including administrative functions
+
+*If you find a Petshop DApp in Github you cannot just copy and paste features from it, because
+the point is to adapt (and test) the code from a different DApp so you can understand what the code is doing.
+Use any copied features found in any Petshop DApp in Github as building blocks only. 
+In other words, any features (say features A, B etc.) you copy directly from a Petshop DApp in Github
+do not count among the 6 required new features for the project, though
+you can use those copied features (features A, B etc.) 
+to build another feature (feature C) on top that uses features A, B etc. as a foundation.
+In that case, feature C does count as one of the 6 required new features.
+For example, suppose you copy transfer a voting feature from a Petshop DApp in Github,
+you can use the voting feature so that the pet with the most votes 
+will cause (using an event) the petshop to place the pet in the top left cell of the display table or
+cause the petshop to buy more of that breed of pet or 
+cause the petshop to modify the price of that breed of pet etc.
+Another example, suppose you copy a donation feature from a Petshop DApp in Github,
+you can use the donation feature so that the donation
+will cause (using an event) the petshop to offer a small gift (PetshopToken coupon) to the donor.
+In any case, make sure you mention which features you borrowed from where and how you enhanced them.
+
+
+**you can access the file system or use normal URLs or use IPFS URLS. 
+If accessing the file system, 
+you can use the json file provided which reads from the file system or
+you can use FileReader() or
+you can use the fs module. 
+To do this, add const fs = require('fs') to truffle_config.js and use fs wherever needed.
+To use IPFS: see 13.IPSF_Dapp_ShortDEMO in the EthereumMinicourse.
+
+***It is possible to filter by just using the front end: 
+try to filter while simultaneously cross referencing the back end (=contract.sol), not just searching the front end (=JSON file). 
+The petshop App comes with a very simple data structure (just an array). 
+You can replace that array with a struct or a mapping that allows you to cross reference the back end better.
+
+****You can use an available Oracle service or set up an Oracle service yourself.
+Either way you need to use Ganach+Truffle IDE.
+Available Oracle service: 
+https://archive.ph/SA09u
+Set up an Oracle service yourself:
+https://archive.ph/de6V1
+https://github.com/jrkosinski/oracle-example/tree/part1-step1
+
+Not all the features require the same amount of work or make use of the blockchain back-end to preserve info
+and this complexity (using the blockchain back-end or not) will be taken into consideration during grading.
+Some features are difficult enough that they count double or triple. 
+For example  way of keeping track of adoption history from the owner (or pet) point of view counts as a double feature.
+The reason is that doing this feature is best implemented with a data structure like a struct or a mapping.
+Using an event counts as a double feature.
+Using an oracle to obtain information from the internet counts as 6 features.
+Also taken into consideration is how much work was contributed per person (e.g. if you worked alone vs if you shared work with other team members).
+
+You can, of course, introduce your own 6 features if you want different ones.
+In any case:
+If you start your DApp from scratch it should have 6 features too.
+If you program a DApp from scratch or from a seed DApp please use the same framework as the Petshop or Election DApps (i.e. Solidity, TruffleContract, JQuery, Web3, Truffle, Ganache). 
+
+Another option for a programming project is:
+In this link you will find many DApps programmed in Truffle framework:
+https://github.com/dappuniversity
+you can choose one DApp and add 6 features to it.
+
+Frameworks:
+Use Truffle and Ganache (or Ganache-cli) framework
+We strongly prefer that you use truffle-contract for contract interaction.
+We strongly prefer that you use the JQuery framework for the user interface.
+You can use React instead of JQuery, though
+we believe JQuery is  more appropriate for this course.
+Do not use any front-end framework other than JQuery or React.
+For the back-end, please use Solidity and Web3.
+
+Configuration files and libraries:
+If you want to write a DApp from scratch:
+you can use any of the Minicourse's DApps as seed,
+(we suggest Metacoin),
+keeping the project configuration and libraries
+and erase the contents of the contract as convenient.
+Do not use Election DApp to start a new project from scratch:
+Election's Web3 and truffle-contract are a little dated
+and websocket events may not work properly.
+
+Testing:
+Ideally, the DApp should test the 6 new or transferred features.
+That is: it should include test files for these 6 features that
+run with truffle test.
+Include the testing in the mp4.
+
+Team size:
+3 at most.
+If you work alone, I will take that as extra work (in your favor).
+You  must include all team members in the Executive Summary.
+
+You can also write a tutorial DApp for your own reference in the future.
+Writing the script is a lot of work and can substitute for writing a personal project,
+because you should explain in detail
+the lines of code that use promises or callbacks and web3, not just
+explain the solidity code (in the smart contract and testing parts).
+You can use any seed DApp to do this, like the Election DApp or the PetShop tutorial,
+where many things have been explained by the author but certainly not all.
+(We do not recommend you start from the Marketplace DApp because it is very long
+and uses React.)
+
+So in conclusion:
+
+You can choose either A or B:
+A. Enhance an existing DApp with 6 major features, or write a DApp from scratch with 6 features or
+B. Write a tutorial for a DApp
+
+In either case, the DApp should be written in a
+current version of Truffle 
+(or as current a version as possible that is compatible with your DApp seed)
+using Ganache or ganache-cli (THIS IS NOT OPTIONAL) and
+a current version of web3.
+
+The deliverable (for either A or B):
+
+1.The DApp (=full Truffle Project Directory DO NOT PUBLISH YOUR DAPP ON GITHUB)
+2.Detailed setup instructions for setting up and running the DApp,
+including version numbers of:
+
+If using Javascript:
+Node.js version,
+lite-server version,
+Solidity version,
+web3 version,
+Truffle version,
+Ganache version or ganache-cli version,
+Front End Framework (JQuery, React, none)
+
+If using Python:
+Python version,
+flask version,
+simplejson version,
+web3 version (Python)
+Solidity version,
+Truffle version,
+Ganache version or ganache-cli version,
+Framework (JQuery, React, none)
+
+3.A video (e.g. mp4) that shows your operation and testing of the DApp
+the video can include the Metamask and Ganache setup
+followed by testing run confirmation
+followed by operation of the dApp
+
+If doing A (enhanced DApp or original DApp):
+4. A one-fifth page 1.5 spaced executive summary 
+The executive summary should explain the new features and which files were modified to implement them.
+See ExecutiveSummaryExample.pdf
+If you started from a seed DApp:
+Describe the 6 features you added (original or transferred)
+If you wrote a DApp from scratch:
+Describe its 6 features
+Describe which front end framework you selected (JQuery or React)
+
+If writing B (tutorial script):
+5. A one-fifth page 1.5 spaced executive summary and 
+6. A min. 25 page (600 word per page) tutorial script (you can run over)
+where the programming code word count does not count towards the 600 word per page wordcount.
+
+NOTE ABOUT NODE_MODULES
+
+Your project will be heavy to upload to Quercus 
+because of the size of node_modules.
+To reduce the size of node_modules
+install ModClean: https://github.com/ModClean/modclean
+and run the following line from the terminal inside the project:
+modclean -n default:safe
+Always make sure the DApp continues to run after you do this.
+
+
+

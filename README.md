@@ -5,7 +5,7 @@ The repository contains all the source code and documentations for Course Projec
 
 **Please follow the academic integrity at the University of Toronto.**
 
-***A PDF verion of required reading ["Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better" by Lyn Alden ](https://www.amazon.ca/gp/product/B0CGNVNXK2/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1) is also included in the repository for in-class quiz.***
+***A PDF verion of required reading ["Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better" by Lyn Alden ](https://github.com/zlt0518/APS1050-2025F-Petshop-Project/blob/main/For-Quiz-Lyn-Alden-Broken-Money-Why-Our-Financial-System-is-Failing-Us-and-How-We-Can-Make-it-Better.pdf) is also included in the repository for in-class quiz.***
 
 ## Introduction 
 Our DApp is an enhanced version of the classic Pet Shop DApp ([Pete's Pet Shop](https://archive.trufflesuite.com/guides/pet-shop/)) decentralized application, built on Ethereum using Solidity, Web3.js, and a fully on-chain smart contract architecture. It allows users to view, adopt, and interact with pets while ensuring transparency, immutability, and trust through blockchain technology. For our DApp, **7 features have been implemented to compromise the team size of 4 people after discussion with instructors**. All 7 features enrich both the front-end user experience and the back-end smart contract logic, making the DApp more interactive and intuitive. These improvements create a more dynamic, user-driven, and functional platform for decentralized pet adoption.

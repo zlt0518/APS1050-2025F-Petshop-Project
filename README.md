@@ -1,7 +1,8 @@
 # APS1050-2025F-Petshop-Project
 
 APS1050F: Blockchain Technologies and Cryptocurrencies 2025 Fall Project at the University of Toronto \
-The repository contains all the source code and documentations for Course Project written by 4 students
+The repository contains all the source code and documentations for Course Project written by 4 students \
+***A PDF verion of book "Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better" By Lyn Alden is also included in the repository for in-class quiz.***
 
 **Please follow the academic integrity at the University of Toronto.**
 
